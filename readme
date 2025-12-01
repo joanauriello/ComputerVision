@@ -1,7 +1,7 @@
 Clasificación de Residuos con Deep Learning
 Proyecto – Maestría en Ciencia de Datos y Aprendizaje Automático (2025)
 
-Este repositorio contiene el desarrollo completo de un sistema de clasificación automática de residuos utilizando técnicas de visión por computadora y aprendizaje profundo. El trabajo se aplicó a un dataset unificado de aproximadamente 59.000 imágenes pertenecientes a 12 categorías de residuos relevantes para procesos de separación y reciclaje. El objetivo principal fue evaluar distintas arquitecturas de clasificación: ResNet50, EfficientNet y YOLOv8 y analizar su capacidad de generalización frente a un dominio altamente variable y complejo.
+Este repositorio contiene el desarrollo completo del entrenamiento de distintos modelos para la clasificacion automática de residuos utilizando técnicas de visión por computadora y aprendizaje profundo. El trabajo se aplicó a un dataset unificado de aproximadamente 59.000 imágenes pertenecientes a 12 categorías de residuos relevantes para procesos de separación y reciclaje. El objetivo principal fue evaluar distintas arquitecturas de clasificación: ResNet50, EfficientNet y YOLOv8 y analizar su capacidad de generalización frente a un dominio altamente variable y complejo.
 
 Resumen del trabajo
 
